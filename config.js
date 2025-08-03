@@ -41,7 +41,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'The documentary shows how six-year-olds adapt to school life—learning to clean, walk quietly in hallways, and raise their hands in class. The director said in an interview that Japan’s image of being hardworking yet vulnerable to peer pressure may be rooted in early school routines. <br> <br>  <iframe width="830" height="500" src="https://www.youtube.com/embed/P9O5TcFr-zQ" frameborder="0" allowfullscreen></iframe><br> Credit: Film’s official website(https://shogakko-film.com/)',
+            description: 'The documentary shows how six-year-olds adapt to school life—learning to clean, walk quietly in hallways, and raise their hands in class. The director said in an interview that Japan’s image of being hardworking yet vulnerable to peer pressure may be rooted in early school routines. <br><br> <div class="video-responsive"><iframe src="https://www.youtube.com/embed/P9O5TcFr-zQ" frameborder="0" allowfullscreen></iframe> </div> <br> Credit: Film’s official website(https://shogakko-film.com/)',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.6,
