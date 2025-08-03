@@ -1,11 +1,11 @@
 # 🏫 Lede Project 3
 
-This is the third project I’ve completed as part of the [Lede](https://yuta-uebayashi.github.io/Lede-Project3/) program.
+This is the third project I’ve completed as part of the [Lede program](https://ledeprogram.com/).
 
 ## 📌 Title
 
-**Analysis of the Number of Students per Elementary School**  
-_One in Five Municipalities Has Elementary Schools with Fewer Than 100 Students on Average_
+**[Analysis of the Number of Students per Elementary School](https://yuta-uebayashi.github.io/Lede-Project3/)**  
+_One in Five Municipalities Has Fewer Than 100 Students per School_
 
 ---
 
