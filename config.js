@@ -15,7 +15,7 @@ var config = {
     title: 'Analysis of the Number of Students per Elementary School',
     subtitle: 'One in Five Municipalities Has Fewer Than 100 Students per School',
     byline: 'By Yuta Uebayashi',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'All the code and data for this project is available on <a href="https://github.com/Yuta-Uebayashi"> GitHub </a>. <br> Photographs in this article were obtained from Nikkei. Satellite images were sourced from the Copernicus Open Access Hub.',
     chapters: [
         {
             id: 'intro1',
@@ -59,7 +59,7 @@ var config = {
             hidden: false,
             title: '',
             image: './Graphs_and_Maps/Japan’s Elementary Schools and Students.png',
-            description: 'Japan is one of the countries where the declining birthrate is advancing at the fastest pace in the world. <br> <br> The number of elementary school students, aged 6 to 12, has declined to around 5 million—half the peak level. As more schools close, communal school life is no longer a given in some parts of the country.',
+            description: 'Japan is one of the countries experiencing the fastest decline in birthrate. <br> <br> The number of elementary school students, aged 6 to 12, has declined to around 5 million—half the peak level. As more schools close, communal school life is no longer a given in some parts of the country.',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.6,
@@ -108,7 +108,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'The results are shown on a map. Red indicates municipalities with fewer than 100 students per school. My analysis found that 20% of about 1,900 municipalities fall into this category. <br><br> <img src="./Graphs_and_Maps/Legend.png">',
+            description: 'The results are shown on a map. Red indicates municipalities with fewer than 100 students per school. My analysis found that around 20% of the roughly 1,900 municipalities fall into this category. <br><br> <img src="./Graphs_and_Maps/Legend.png">',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.60,
@@ -188,7 +188,7 @@ var config = {
             hidden: false,
             title: '',
             image: './Graphs_and_Maps/tokyo.bay.area.jpg',
-            description: 'In Tokyo’s waterfront areas, a recent surge in high-rise apartment construction has led to rapid population growth. Some schools have been forced to add new buildings on limited land to cope with classroom shortages.',
+            description: 'In Tokyo’s waterfront areas, a recent surge in high-rise apartment construction has led to rapid population growth. Some schools have been forced to add new facilities on limited land to address classroom shortages.',
             location: {
                 center: [139.90920, 35.60372],
                 zoom: 9.50,
@@ -239,7 +239,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'The Tohoku region, north of Tokyo, is one of the fastest-aging areas in Japan. The Pacific coast was heavily damaged by the March 2011 earthquake and tsunami, accelerating population decline and economic downturn.',
+            description: 'The Tohoku region, north of Tokyo, is one of the fastest-aging areas in Japan. The Pacific coast was heavily damaged by the March 2011 earthquake and tsunami, accelerating both population decline and economic downturn.',
             location: {
                 center: [140.45570, 39.14821],
                 zoom: 6.7,
@@ -279,7 +279,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'To cut costs, shrinking towns are closing or merging schools. <span class="highlight-red">Red dots </span> show school locations in 2023. Tohoku had 1,667 schools—down 388 from 2013.',
+            description: 'To cut costs, shrinking towns are closing or merging schools. <span class="highlight-red"> Red dots </span> indicate school locations as of 2023. Tohoku had 1,667 schools—down 388 from 2013',
             location: {
                 center: [140.45570, 39.14821],
                 zoom: 6.7,
@@ -319,7 +319,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'I defined areas without a school within 4 km as <span class="highlight-brown"> “hard-to-access zones” </span> and measured their share in Tohoku. In 2013, 48% of the region had no school within 4 km.',
+            description: 'I defined areas located more than 4 km from the nearest school as <span class="highlight-brown"> “hard-to-access zones” </span> and measured their share in Tohoku. In 2013, 48% of the region had no school within 4 km.',
             location: {
                 center: [140.45570, 39.14821],
                 zoom: 6.7,
@@ -399,7 +399,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: '<img src="./Graphs_and_Maps/Kitaakita_city_satellite.png"> <br><br> Kita-Akita City in Akita Prefecture, on the Sea of Japan side, had 13 elementary schools in 2013, but only 7 remained by 2023. The southernmost school closed that year, forcing nearby children to attend a distant one—up to a five-hour walk away.',
+            description: '<img src="./Graphs_and_Maps/Kitaakita_city_satellite.png"> <br><br> Kita-Akita City in Akita Prefecture, on the Sea of Japan side, had 13 elementary schools in 2013, but only 7 remained by 2023. The southernmost school closed that year, forcing nearby children to attend a distant school — as far as a five-hour walk away.',
             location: {
                 center: [140.55177, 39.83581],
                 zoom: 10.0,
@@ -418,7 +418,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'I scraped the website of Japan’s largest cram school chain and collected the address data of all approximately 1,000 <span class="highlight-blue"> class rooms. </span> After adding latitude and longitude information, I mapped them as blue dots. <br><br> The company is closing locations in regional cities where  <span class="highlight-red"> schools </span> are disappearing and accelerating its expansion into major urban areas like Tokyo and Osaka. <br><br> This shift raises concerns that the “education gap” — differences in the quantity and quality of education depending on where people live — will continue to widen in the future.',
+            description: 'I scraped the website of Japan’s largest cram school chain and collected the address data of approximately 1,000 <span class="highlight-blue"> classrooms. </span> After adding latitude and longitude information, I mapped them as blue dots. <br><br> The company is closing locations in regional cities where  <span class="highlight-red"> schools </span> are disappearing and accelerating its expansion into major urban areas like Tokyo and Osaka. <br><br> This shift raises concerns that the “education gap” — differences in the quantity and quality of education depending on where people live — will continue to widen in the future.',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.60,
@@ -458,7 +458,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'School closures also raise disaster concerns, as buildings often serve as shelters during <span class="highlight-yellow"> earthquakes.</span> Since 2000, Japan has experienced over 160 quakes with strong shaking.',
+            description: 'School closures also raise disaster concerns, as school buildings often serve as shelters during <span class="highlight-yellow"> earthquakes.</span> Since 2000, Japan has experienced over 160 earthquakes with strong shaking.',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.60,
@@ -488,7 +488,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'How to preserve schools as hubs for education and disaster response is a serious challenge for local governments nationwide.',
+            description: 'Preserving schools as hubs for education and disaster response poses a serious challenge for local governments across Japan.',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.60,
