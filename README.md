@@ -11,8 +11,8 @@ _One in Five Municipalities Has Fewer Than 100 Students per School_
 
 ## 🎯 Project Goal
 
-This project investigates the current state of Japan’s elementary schools, which are steadily declining in number due to a falling birthrate and aging population.  
-Through interactive maps and visual storytelling, it highlights the widening educational divide and growing concerns about disaster preparedness.
+This project investigates the current state of Japan’s elementary schools and student populations, which continue to decline due to a falling birthrate and aging population.  
+By applying skills learned through the Lede Program—such as programming, QGIS, satellite imagery analysis, and Illustrator—I created an interactive and accessible article to clearly communicate the issue.
 
 ---
 
@@ -20,10 +20,8 @@ Through interactive maps and visual storytelling, it highlights the widening edu
 
 - Over 20% of municipalities have an average of fewer than 100 students per elementary school.
 - In contrast, some areas near Tokyo have over 600 students per school due to rapid population growth.
-- Rural regions, especially in Tohoku, have experienced widespread school closures over the past decade.
-- In Kita-Akita City, repeated school closures have created areas where children must walk up to five hours to reach the nearest school.
+- In Tohoku, repeated school closures have created areas where children must walk up to five hours to reach the nearest school.
 - "Hard-to-access zones" — areas located more than 4 km from the nearest school — have increased by 8 percentage points over the past decade, now covering more than half of Tohoku.
-- School closures affect not only education but may also undermine disaster preparedness, as school buildings often serve as evacuation shelters.
 - Classrooms operated by a nationwide cram school chain are increasingly concentrated in major cities like Tokyo and Osaka, widening the gap in access to after-school education.
 
 ---
@@ -46,9 +44,9 @@ Through this project, I developed skills in:
 - Web-based mapping using Mapbox  
 - Geospatial analysis with QGIS  
 - Data cleaning with pandas and regular expressions  
-- Web scraping and geocoding address data  
+- Automated web scraping using Playwright to extract data across multiple pages, and geocoding address data  
 - Designing and building interactive, easy-to-understand storytelling using JavaScript and HTML  
-- Retrieving satellite imagery and integrating it into the project using QGIS and Adobe Illustrator  
+- Retrieving satellite imagery and integrating it into the project using QGIS and Adobe Illustrator
 
 ---
 
