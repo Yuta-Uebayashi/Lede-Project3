@@ -460,10 +460,10 @@ var config = {
             image: '',
             description: 'The closure of schools also raises concerns about disaster preparedness, as school buildings often serve as evacuation shelters during earthquakes. Since 2000, Japan has experienced more than 160 <span class="highlight-yellow"> earthquakes </span> with strong seismic shaking.',
             location: {
-                center: [136.09650, 36.63415],
-                zoom: 4.60,
-                pitch: 0,
-                bearing: 0
+                center: [138.59869, 36.07701],
+                zoom: 5.70,
+                pitch: 50,
+                bearing: -10
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
