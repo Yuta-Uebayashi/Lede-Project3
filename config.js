@@ -15,7 +15,7 @@ var config = {
     title: 'Analysis of the Number of Students per Elementary School',
     subtitle: 'One in Five Municipalities Has Fewer Than 100 Students per School',
     byline: 'By Yuta Uebayashi',
-    footer: 'All the code and data for this project is available on <a href="https://github.com/Yuta-Uebayashi"> GitHub </a>. <br> Photographs in this article were obtained from Nikkei. Satellite images were sourced from the Copernicus Open Access Hub.',
+    footer: 'All the code and data for this project is available on <a href="https://github.com/Yuta-Uebayashi"> GitHub </a>. <br> Photographs in this article were obtained from the film’s official website and Nikkei. Satellite images were sourced from the Copernicus Open Access Hub.',
     chapters: [
         {
             id: 'intro1',
@@ -41,7 +41,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'The documentary depicts how six-year-old children adapt to school life—learning to clean, walk quietly through hallways, and raise their hands in class. In an interview, the director suggested that Japan’s reputation for being both diligent and susceptible to peer pressure may have its roots in early school routines.',
+            description: '<img src="./Graphs_and_Maps/film.image.png" class="small-img"> <br><br> The documentary depicts how six-year-old children adapt to school life—learning to clean, walk quietly through hallways, and raise their hands in class. In an interview, the director suggested that Japan’s reputation for being both diligent and susceptible to peer pressure may have its roots in early school routines.',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.6,
@@ -108,7 +108,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'The results are visualized on a map, with red highlighting municipalities where the average number of students per school is below 100. The analysis found that approximately 20 percent of Japan’s roughly 1,900 municipalities fall into this category. <br><br> <img src="./Graphs_and_Maps/Legend.png">',
+            description: 'The results are visualized on a map, with red highlighting municipalities where the average number of students per school is below 100. The analysis found that approximately 20 percent of Japan’s roughly 1,900 municipalities fall into this category. <br><br> <img src="./Graphs_and_Maps/Legend.png" class="small-img">',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.60,
