@@ -78,7 +78,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'Japan’s Ministry of Education regularly publishes data on <span class="highlight-red">the location of all elementary schools</span> and their enrollment figures. <br><br> Using the 2023 dataset, I calculated the average number of students per school in each municipality. Extremely small schools result in higher per-student maintenance costs, placing a financial burden on local governments.',
+            description: 'Japan’s Ministry of Education regularly publishes data on the location of all <span class="highlight-red"> elementary schools </span> and their enrollment figures. <br><br> Using the 2023 dataset, I calculated the average number of students per school in each municipality. Extremely small schools result in higher per-student maintenance costs, placing a financial burden on local governments.',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.6,
@@ -279,7 +279,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'To reduce costs, many shrinking towns have closed or consolidated elementary schools. Red dots on the map represent school locations as of 2023. In the Tohoku region, the number of schools fell to 1,667—a decrease of 388 from 2013.',
+            description: 'To reduce costs, many shrinking towns have closed or consolidated <span class="highlight-red"> elementary schools. </span> Red dots on the map represent school locations as of 2023. In the Tohoku region, the number of schools fell to 1,667—a decrease of 388 from 2013.',
             location: {
                 center: [140.45570, 39.14821],
                 zoom: 6.7,
@@ -420,10 +420,10 @@ var config = {
             image: '',
             description: 'Address data for approximately 1,000 <span class="highlight-blue"> classrooms </span> operated by Japan’s largest cram school chain were collected by scraping the company’s website. After geocoding the data, the locations were visualized as blue dots on the map. <br><br> The company has been closing locations in regional cities where <span class="highlight-red"> public schools </span> are disappearing, while accelerating its expansion into major urban centers such as Tokyo and Osaka. <br><br> This shift has raised concerns that the education gap — disparities in access to educational opportunities based on where people live — may continue to widen.',
             location: {
-                center: [136.09650, 36.63415],
-                zoom: 4.60,
-                pitch: 0,
-                bearing: 0
+                center: [138.59869, 36.07701],
+                zoom: 5.70,
+                pitch: 50,
+                bearing: -10
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
