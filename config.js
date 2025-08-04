@@ -23,7 +23,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: '<i>"Instruments of a Beating Heart"</i>, a documentary that follows a year in the life of a Japanese public elementary school, was nominated for Best Documentary Short at the 2025 Academy Awards. Although it did not win, the film garnered global attention.',
+            description: '<i>"Instruments of a Beating Heart"</i>, a documentary that follows a year in the life of a Japanese public elementary school, was nominated for Best Documentary Short at the 2025 Academy Awards. Although it did not receive the award, the film attracted international attention.',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.6,
@@ -41,7 +41,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'The documentary shows how six-year-olds adapt to school life—learning to clean, walk quietly in hallways, and raise their hands in class. The director said in an interview that Japan’s image of being hardworking yet vulnerable to peer pressure may be rooted in early school routines.',
+            description: 'The documentary depicts how six-year-old children adapt to school life—learning to clean, walk quietly through hallways, and raise their hands in class. In an interview, the director suggested that Japan’s reputation for being both diligent and susceptible to peer pressure may have its roots in early school routines.',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.6,
@@ -59,7 +59,7 @@ var config = {
             hidden: false,
             title: '',
             image: './Graphs_and_Maps/Japan’s Elementary Schools and Students.png',
-            description: 'Japan is one of the countries experiencing the fastest decline in birthrate. <br> <br> The number of elementary school students, aged 6 to 12, has declined to around 5 million—half the peak level. As more schools close, communal school life is no longer a given in some parts of the country.',
+            description: 'The orderly school life portrayed in the documentary is gradually disappearing from everyday life in Japan. The country is among those experiencing the most rapid decline in birthrate. The number of elementary school students, aged 6 to 12, has fallen to around five million—half its peak. It is not uncommon for elementary schools to have fewer than ten students.',
             location: {
                 center: [136.09650, 36.63415],
                 zoom: 4.6,
@@ -279,7 +279,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: 'To cut costs, shrinking towns are closing or merging schools. <span class="highlight-red"> Red dots </span> indicate school locations as of 2023. Tohoku had 1,667 schools—down 388 from 2013',
+            description: 'To cut costs, shrinking towns are closing or merging schools. <span class="highlight-red"> Red dots </span> indicate school locations as of 2023. Tohoku had 1,667 schools—down 388 from 2013.',
             location: {
                 center: [140.45570, 39.14821],
                 zoom: 6.7,
