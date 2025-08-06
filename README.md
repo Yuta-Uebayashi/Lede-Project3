@@ -5,7 +5,7 @@ This is the third project I’ve completed as part of the [the Lede Data Journal
 ## 📌 Title
 
 **[Japan’s Shrinking Elementary Schools](https://yuta-uebayashi.github.io/Lede-Project3/)**  
-_In One in Five Towns, the Average Has Fewer Than 100 Students_
+_One in Five Towns, the Average Has Fewer Than 100 Students_
 
 ---
 
