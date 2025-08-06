@@ -12,7 +12,7 @@ var config = {
     use3dTerrain: false, 
     auto: false,
     title: 'Japan’s Shrinking Elementary Schools',
-    subtitle: 'One in Five Towns, the Average Has Fewer Than 100 Students',
+    subtitle: 'In One in Five Towns, Schools Average Fewer Than 100 Students',
     byline: 'By Yuta Uebayashi',
     footer: 'This article was produced as part of the Lede Data Journalism Program at Columbia University in August 2025. All the code and data for this project are available on <a href="https://github.com/Yuta-Uebayashi/Lede-Project3"> GitHub. </a> <br> Photographs were obtained from the film’s official website and Nikkei. Satellite images were sourced from the Copernicus Open Access Hub.',
     chapters: [
