@@ -1,6 +1,6 @@
 # 🏫 Lede Project 3
 
-This is the third project I’ve completed as part of the [the Lede Data Journalism Program at Columbia University in 2025](https://ledeprogram.com/).
+This is the third project I’ve completed as part of the [the Lede Data Journalism Program at Columbia University](https://ledeprogram.com/).
 
 ## 📌 Title
 
