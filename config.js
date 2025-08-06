@@ -1,6 +1,5 @@
 var config = {
     style: 'mapbox://styles/yuta1219/cmdht4yu801es01sa3auy0v3h',
-    // leave commented to use Mapbox Standard Style
     accessToken: 'pk.eyJ1IjoieXV0YTEyMTkiLCJhIjoiY21iemxjbmJhMTJwdjJrcHN0NjlhdzczaiJ9.39zQw0gWyyNYPI_Fydwl6w',
     showMarkers: false,
     markerColor: '#3FB1CE',
