@@ -1,11 +1,11 @@
 # 🏫 Lede Project 3
 
-This is the third project I’ve completed as part of the [Lede program](https://ledeprogram.com/).
+This is the third project I’ve completed as part of the [the Lede Data Journalism Program at Columbia University in 2025](https://ledeprogram.com/).
 
 ## 📌 Title
 
-**[Analysis of the Number of Students per Elementary School](https://yuta-uebayashi.github.io/Lede-Project3/)**  
-_One in Five Municipalities Has Fewer Than 100 Students per School_
+**[Japan’s Shrinking Elementary Schools](https://yuta-uebayashi.github.io/Lede-Project3/)**  
+_In One in Five Towns, the Average Has Fewer Than 100 Students_
 
 ---
 
